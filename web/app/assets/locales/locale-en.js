@@ -5,7 +5,7 @@ module.exports = {
         fr: "Français",
         ko: "한국어",
         de: "Deutsch",
-        es: "Spanish"
+        es: "Spanish" // test edit to see if transifex updates locales propperly from raw.githubusercontent.com
     },
     header: {
         title: "Graphene UI",
